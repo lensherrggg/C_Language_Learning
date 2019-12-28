@@ -1,0 +1,3 @@
+/Users/rui/Documents/Code/Learning/C/Josephus Game/Josephus Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/rui/Documents/Code/Learning/C/Josephus Game/Josephus Game/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rui/Documents/Code/Learning/C/Josephus Game/Josephus Game/cmake-build-debug/CMakeFiles/Josephus_Game.dir
